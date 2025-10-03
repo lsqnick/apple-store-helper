@@ -2145,7 +2145,7 @@
     "state": [
       {
         "__typename": "RgdsState",
-        "name": "Tokyo",
+        "name": "东京都",
         "store": [
           {
             "id": "R718",
@@ -2158,7 +2158,7 @@
               "city": "Chiyoda-ku",
               "postalCode": "100-0005",
               "__typename": "PostalAddress",
-              "stateName": "Tokyo",
+              "stateName": "东京都",
               "stateCode": null
             },
             "__typename": "RgdsStore"
@@ -2174,7 +2174,7 @@
               "city": "Shibuya-ku",
               "postalCode": "150-0041",
               "__typename": "PostalAddress",
-              "stateName": "Tokyo",
+              "stateName": "东京都",
               "stateCode": null
             },
             "__typename": "RgdsStore"
@@ -2190,7 +2190,7 @@
               "city": "Shibuya-ku",
               "postalCode": "150-0001",
               "__typename": "PostalAddress",
-              "stateName": "Tokyo",
+              "stateName": "东京都",
               "stateCode": null
             },
             "__typename": "RgdsStore"
@@ -2206,7 +2206,7 @@
               "city": "Shinjuku-ku",
               "postalCode": "160-0022",
               "__typename": "PostalAddress",
-              "stateName": "Tokyo",
+              "stateName": "东京都",
               "stateCode": null
             },
             "__typename": "RgdsStore"
@@ -2222,7 +2222,7 @@
               "city": "Chuo-ku",
               "postalCode": "104-0061",
               "__typename": "PostalAddress",
-              "stateName": "Tokyo",
+              "stateName": "东京都",
               "stateCode": null
             },
             "__typename": "RgdsStore"
@@ -2231,7 +2231,7 @@
       },
       {
         "__typename": "RgdsState",
-        "name": "Aichi",
+        "name": "爱知县",
         "store": [
           {
             "id": "R005",
@@ -2244,7 +2244,7 @@
               "city": "Nagoya-shi",
               "postalCode": "460-0008",
               "__typename": "PostalAddress",
-              "stateName": "Aichi",
+              "stateName": "爱知县",
               "stateCode": null
             },
             "__typename": "RgdsStore"
@@ -2253,7 +2253,7 @@
       },
       {
         "__typename": "RgdsState",
-        "name": "Kanagawa",
+        "name": "神奈川县",
         "store": [
           {
             "id": "R710",
@@ -2266,7 +2266,7 @@
               "city": "Kawasaki-shi",
               "postalCode": "212-8576",
               "__typename": "PostalAddress",
-              "stateName": "Kanagawa",
+              "stateName": "神奈川县",
               "stateCode": null
             },
             "__typename": "RgdsStore"
@@ -2275,7 +2275,7 @@
       },
       {
         "__typename": "RgdsState",
-        "name": "Kyoto",
+        "name": "京都府",
         "store": [
           {
             "id": "R711",
@@ -2288,7 +2288,7 @@
               "city": "Kyoto-shi",
               "postalCode": "600-8006",
               "__typename": "PostalAddress",
-              "stateName": "Kyoto",
+              "stateName": "京都府",
               "stateCode": null
             },
             "__typename": "RgdsStore"
@@ -2297,7 +2297,7 @@
       },
       {
         "__typename": "RgdsState",
-        "name": "Fukuoka",
+        "name": "福冈县",
         "store": [
           {
             "id": "R048",
@@ -2310,7 +2310,7 @@
               "city": "Fukuoka-shi",
               "postalCode": "810-0001",
               "__typename": "PostalAddress",
-              "stateName": "Fukuoka",
+              "stateName": "福冈县",
               "stateCode": null
             },
             "__typename": "RgdsStore"
@@ -2319,7 +2319,7 @@
       },
       {
         "__typename": "RgdsState",
-        "name": "Osaka",
+        "name": "大阪府",
         "store": [
           {
             "id": "R768",
@@ -2332,7 +2332,7 @@
               "city": "Osaka-shi",
               "postalCode": "530-0011",
               "__typename": "PostalAddress",
-              "stateName": "Osaka",
+              "stateName": "大阪府",
               "stateCode": null
             },
             "__typename": "RgdsStore"
@@ -2348,7 +2348,7 @@
               "city": "Osaka-shi",
               "postalCode": "542-0086",
               "__typename": "PostalAddress",
-              "stateName": "Osaka",
+              "stateName": "大阪府",
               "stateCode": null
             },
             "__typename": "RgdsStore"
@@ -2361,7 +2361,7 @@
     "states": [
       {
         "__typename": "RgdsState",
-        "name": "Tokyo",
+        "name": "东京都",
         "store": [
           {
             "id": "R718",
@@ -2374,7 +2374,7 @@
               "city": "Chiyoda-ku",
               "postalCode": "100-0005",
               "__typename": "PostalAddress",
-              "stateName": "Tokyo",
+              "stateName": "东京都",
               "stateCode": null
             },
             "__typename": "RgdsStore"
@@ -2390,7 +2390,7 @@
               "city": "Shibuya-ku",
               "postalCode": "150-0041",
               "__typename": "PostalAddress",
-              "stateName": "Tokyo",
+              "stateName": "东京都",
               "stateCode": null
             },
             "__typename": "RgdsStore"
@@ -2406,7 +2406,7 @@
               "city": "Shibuya-ku",
               "postalCode": "150-0001",
               "__typename": "PostalAddress",
-              "stateName": "Tokyo",
+              "stateName": "东京都",
               "stateCode": null
             },
             "__typename": "RgdsStore"
@@ -2422,7 +2422,7 @@
               "city": "Shinjuku-ku",
               "postalCode": "160-0022",
               "__typename": "PostalAddress",
-              "stateName": "Tokyo",
+              "stateName": "东京都",
               "stateCode": null
             },
             "__typename": "RgdsStore"
@@ -2438,7 +2438,7 @@
               "city": "Chuo-ku",
               "postalCode": "104-0061",
               "__typename": "PostalAddress",
-              "stateName": "Tokyo",
+              "stateName": "东京都",
               "stateCode": null
             },
             "__typename": "RgdsStore"
@@ -2447,7 +2447,7 @@
       },
       {
         "__typename": "RgdsState",
-        "name": "Aichi",
+        "name": "爱知县",
         "store": [
           {
             "id": "R005",
@@ -2460,7 +2460,7 @@
               "city": "Nagoya-shi",
               "postalCode": "460-0008",
               "__typename": "PostalAddress",
-              "stateName": "Aichi",
+              "stateName": "爱知县",
               "stateCode": null
             },
             "__typename": "RgdsStore"
@@ -2469,7 +2469,7 @@
       },
       {
         "__typename": "RgdsState",
-        "name": "Kanagawa",
+        "name": "神奈川县",
         "store": [
           {
             "id": "R710",
@@ -2482,7 +2482,7 @@
               "city": "Kawasaki-shi",
               "postalCode": "212-8576",
               "__typename": "PostalAddress",
-              "stateName": "Kanagawa",
+              "stateName": "神奈川县",
               "stateCode": null
             },
             "__typename": "RgdsStore"
@@ -2491,7 +2491,7 @@
       },
       {
         "__typename": "RgdsState",
-        "name": "Kyoto",
+        "name": "京都府",
         "store": [
           {
             "id": "R711",
@@ -2504,7 +2504,7 @@
               "city": "Kyoto-shi",
               "postalCode": "600-8006",
               "__typename": "PostalAddress",
-              "stateName": "Kyoto",
+              "stateName": "京都府",
               "stateCode": null
             },
             "__typename": "RgdsStore"
@@ -2513,7 +2513,7 @@
       },
       {
         "__typename": "RgdsState",
-        "name": "Fukuoka",
+        "name": "福冈县",
         "store": [
           {
             "id": "R048",
@@ -2526,7 +2526,7 @@
               "city": "Fukuoka-shi",
               "postalCode": "810-0001",
               "__typename": "PostalAddress",
-              "stateName": "Fukuoka",
+              "stateName": "福冈县",
               "stateCode": null
             },
             "__typename": "RgdsStore"
@@ -2535,7 +2535,7 @@
       },
       {
         "__typename": "RgdsState",
-        "name": "Osaka",
+        "name": "大阪府",
         "store": [
           {
             "id": "R768",
@@ -2548,7 +2548,7 @@
               "city": "Osaka-shi",
               "postalCode": "530-0011",
               "__typename": "PostalAddress",
-              "stateName": "Osaka",
+              "stateName": "大阪府",
               "stateCode": null
             },
             "__typename": "RgdsStore"
@@ -2564,7 +2564,7 @@
               "city": "Osaka-shi",
               "postalCode": "542-0086",
               "__typename": "PostalAddress",
-              "stateName": "Osaka",
+              "stateName": "大阪府",
               "stateCode": null
             },
             "__typename": "RgdsStore"

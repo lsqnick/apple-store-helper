@@ -43,18 +43,27 @@ jobs:
         uses: actions/setup-go@v5
         with:
           go-version-file: go.mod
-      - name: Install fyne-cross
+      - name: Install Fyne tooling
         run: |
           go install fyne.io/fyne/v2/cmd/fyne@latest
-          go install github.com/fyne-io/fyne-cross@latest
           echo "${HOME}/go/bin" >> $GITHUB_PATH
       - name: Build macOS packages
         run: |
-          fyne-cross darwin -arch=amd64,arm64 -app-id=apple.store.helper -name="Apple Store Helper"
+          mkdir -p dist/macos
+          for arch in amd64 arm64; do
+            export GOOS=darwin
+            export GOARCH=${arch}
+            export CGO_ENABLED=1
+            rm -rf "Apple Store Helper.app"
+            fyne package -os darwin -appID apple.store.helper -name "Apple Store Helper"
+            OUT_DIR="dist/macos/darwin-${arch}"
+            mkdir -p "${OUT_DIR}"
+            mv "Apple Store Helper.app" "${OUT_DIR}/"
+          done
       - name: Fix macOS app signatures
         run: |
           for arch in arm64 amd64; do
-            APP_DIR="fyne-cross/dist/darwin-${arch}/Apple Store Helper.app"
+            APP_DIR="dist/macos/darwin-${arch}/Apple Store Helper.app"
             if [ -d "$APP_DIR" ]; then
               xattr -cr "$APP_DIR"
               codesign --force --deep --sign - "$APP_DIR"
@@ -65,4 +74,4 @@ jobs:
         with:
           name: macos-packages
           path: |
-            fyne-cross/dist/darwin-*/
+            dist/macos/
