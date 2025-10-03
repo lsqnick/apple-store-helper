@@ -2149,7 +2149,7 @@
         "store": [
           {
             "id": "R718",
-            "name": "Marunouchi",
+            "name": "丸之内",
             "slug": "marunouchi",
             "telephone": "(03) 4213-0500",
             "address": {
@@ -2165,7 +2165,7 @@
           },
           {
             "id": "R119",
-            "name": "Shibuya",
+            "name": "涩谷",
             "slug": "shibuya",
             "telephone": "(03) 6670-1800",
             "address": {
@@ -2181,7 +2181,7 @@
           },
           {
             "id": "R224",
-            "name": "Omotesando",
+            "name": "表参道",
             "slug": "omotesando",
             "telephone": "(03) 6757-4400",
             "address": {
@@ -2197,7 +2197,7 @@
           },
           {
             "id": "R128",
-            "name": "Shinjuku",
+            "name": "新宿",
             "slug": "shinjuku",
             "telephone": "(03) 5656-1800",
             "address": {
@@ -2213,7 +2213,7 @@
           },
           {
             "id": "R079",
-            "name": "Ginza",
+            "name": "银座",
             "slug": "ginza",
             "telephone": "(03) 4345-3600",
             "address": {
@@ -2235,7 +2235,7 @@
         "store": [
           {
             "id": "R005",
-            "name": "Nagoya Sakae",
+            "name": "名古屋荣",
             "slug": "nagoyasakae",
             "telephone": "(052) 238-2400",
             "address": {
@@ -2257,7 +2257,7 @@
         "store": [
           {
             "id": "R710",
-            "name": "Kawasaki",
+            "name": "川崎",
             "slug": "kawasaki",
             "telephone": "(044) 577-5100",
             "address": {
@@ -2279,7 +2279,7 @@
         "store": [
           {
             "id": "R711",
-            "name": "Kyoto",
+            "name": "京都",
             "slug": "kyoto",
             "telephone": "(075) 757-8700",
             "address": {
@@ -2301,7 +2301,7 @@
         "store": [
           {
             "id": "R048",
-            "name": "Fukuoka",
+            "name": "福冈",
             "slug": "fukuoka",
             "telephone": "(092) 778-0200",
             "address": {
@@ -2323,7 +2323,7 @@
         "store": [
           {
             "id": "R768",
-            "name": "Umeda",
+            "name": "梅田",
             "slug": "umeda",
             "telephone": "(06) 7526-6200",
             "address": {
@@ -2339,7 +2339,7 @@
           },
           {
             "id": "R091",
-            "name": "Shinsaibashi",
+            "name": "心斋桥",
             "slug": "shinsaibashi",
             "telephone": "(06) 4965-2900",
             "address": {
@@ -2365,7 +2365,7 @@
         "store": [
           {
             "id": "R718",
-            "name": "Marunouchi",
+            "name": "丸之内",
             "slug": "marunouchi",
             "telephone": "(03) 4213-0500",
             "address": {
@@ -2381,7 +2381,7 @@
           },
           {
             "id": "R119",
-            "name": "Shibuya",
+            "name": "涩谷",
             "slug": "shibuya",
             "telephone": "(03) 6670-1800",
             "address": {
@@ -2397,7 +2397,7 @@
           },
           {
             "id": "R224",
-            "name": "Omotesando",
+            "name": "表参道",
             "slug": "omotesando",
             "telephone": "(03) 6757-4400",
             "address": {
@@ -2413,7 +2413,7 @@
           },
           {
             "id": "R128",
-            "name": "Shinjuku",
+            "name": "新宿",
             "slug": "shinjuku",
             "telephone": "(03) 5656-1800",
             "address": {
@@ -2429,7 +2429,7 @@
           },
           {
             "id": "R079",
-            "name": "Ginza",
+            "name": "银座",
             "slug": "ginza",
             "telephone": "(03) 4345-3600",
             "address": {
@@ -2451,7 +2451,7 @@
         "store": [
           {
             "id": "R005",
-            "name": "Nagoya Sakae",
+            "name": "名古屋荣",
             "slug": "nagoyasakae",
             "telephone": "(052) 238-2400",
             "address": {
@@ -2473,7 +2473,7 @@
         "store": [
           {
             "id": "R710",
-            "name": "Kawasaki",
+            "name": "川崎",
             "slug": "kawasaki",
             "telephone": "(044) 577-5100",
             "address": {
@@ -2495,7 +2495,7 @@
         "store": [
           {
             "id": "R711",
-            "name": "Kyoto",
+            "name": "京都",
             "slug": "kyoto",
             "telephone": "(075) 757-8700",
             "address": {
@@ -2517,7 +2517,7 @@
         "store": [
           {
             "id": "R048",
-            "name": "Fukuoka",
+            "name": "福冈",
             "slug": "fukuoka",
             "telephone": "(092) 778-0200",
             "address": {
@@ -2539,7 +2539,7 @@
         "store": [
           {
             "id": "R768",
-            "name": "Umeda",
+            "name": "梅田",
             "slug": "umeda",
             "telephone": "(06) 7526-6200",
             "address": {
@@ -2555,7 +2555,7 @@
           },
           {
             "id": "R091",
-            "name": "Shinsaibashi",
+            "name": "心斋桥",
             "slug": "shinsaibashi",
             "telephone": "(06) 4965-2900",
             "address": {

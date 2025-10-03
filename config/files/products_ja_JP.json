@@ -75,23 +75,23 @@
           "multiVariantsDisplayTitle": "色を選ぶ："
         },
         "lavender": {
-          "value": "ラベンダー",
+          "value": "薰衣草紫色",
           "image": "<em class=\"click-layer\"></em> <div class=\"effect pink \"><img src=\"https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-finish-lavender-202509?wid=204&amp;hei=204&amp;fmt=jpeg&amp;qlt=90&amp;.v=WGdCRlQ0YVlqbTdXTEkxRnVQb0oxdmprcGpjY2l5RUIzeVFrbmJvUWtqc2RGZkRIOXlYamJZeXJpMktxS05vTmJGcXNRQnFCV0w3WVRjTExvdm1ic1UxMXlrbnZjcG5pSE5vKzQ1Qmlmc201dDgvV3BhU1hoSzFPUEZjam5HQ2g\" alt=\"\" width=\"102\" height=\"102\" class=\"ir\" /></div>"
         },
         "sage": {
-          "value": "セージ",
+          "value": "鼠尾草绿色",
           "image": "<em class=\"click-layer\"></em> <div class=\"effect pink \"><img src=\"https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-finish-sage-202509?wid=204&amp;hei=204&amp;fmt=jpeg&amp;qlt=90&amp;.v=WGdCRlQ0YVlqbTdXTEkxRnVQb0oxdUNNQ0FSYTZPU3dUUlNOUGtqOGRBMG1FRWhOUGUvNGZuTmxlNGRBWlpkb014MXJScFRZN3Y5OWZsRXVrN1k4cFl2UlpqT3NIQkxHZGtBc1I0MEN5VlE\" alt=\"\" width=\"102\" height=\"102\" class=\"ir\" /></div>"
         },
         "mistblue": {
-          "value": "ミストブルー",
+          "value": "青雾蓝色",
           "image": "<em class=\"click-layer\"></em> <div class=\"effect pink \"><img src=\"https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-finish-mistblue-202509?wid=204&amp;hei=204&amp;fmt=jpeg&amp;qlt=90&amp;.v=WGdCRlQ0YVlqbTdXTEkxRnVQb0oxdWl5TlJNblQ1TXNxaXhCeUQxS25wUWRGZkRIOXlYamJZeXJpMktxS05vTmJGcXNRQnFCV0w3WVRjTExvdm1ic1hYeHFhQi83RENsMWl1S0xaWXpQbkQrNmVjbmk5c1V4VVk2VEt3TGcxekg\" alt=\"\" width=\"102\" height=\"102\" class=\"ir\" /></div>"
         },
         "white": {
-          "value": "ホワイト",
+          "value": "白色",
           "image": "<em class=\"click-layer\"></em> <div class=\"effect pink \"><img src=\"https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/finish-white-202409?wid=200&amp;hei=200&amp;fmt=jpeg&amp;qlt=90&amp;.v=N1ZuMjN0M0dGZXhnVFNBLzNYR0lpZ2Y3Z2lZOGY1OFRWUWZSdmJmVkRqV0RPS3JEVHZvYnQrZDFkdk56RHlVejNxbTdaQ1pEcEVyUXl2Rjk4ZkNDQkM5RFpwQkY4ejlFVzFKNllWL01aMk0\" alt=\"\" width=\"100\" height=\"100\" class=\"ir\" /></div>"
         },
         "black": {
-          "value": "ブラック",
+          "value": "黑色",
           "image": "<em class=\"click-layer\"></em> <div class=\"effect black \"><img src=\"https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/finish-black-202409?wid=200&amp;hei=200&amp;fmt=jpeg&amp;qlt=90&amp;.v=RlpRL3lIcFB1TmI2NEJlaW1pM1BsQWY3Z2lZOGY1OFRWUWZSdmJmVkRqV0RPS3JEVHZvYnQrZDFkdk56RHlVejNxbTdaQ1pEcEVyUXl2Rjk4ZkNDQkQvYVIzWHBIL1JhMitsd2FWTkdFZVU\" alt=\"\" width=\"100\" height=\"100\" class=\"ir\" /></div>"
         },
         "variantOrder": [
@@ -2292,15 +2292,15 @@
           "multiVariantsDisplayTitle": "色を選ぶ："
         },
         "silver": {
-          "value": "シルバー",
+          "value": "银色",
           "image": "<em class=\"click-layer\"></em> <div><img src=\"https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-pro-finish-silver-202509?wid=204&amp;hei=204&amp;fmt=jpeg&amp;qlt=90&amp;.v=NUNzdzNKR0FJbmhKWm5YamRHb05tZkhRZEJOK1JCN0VZN2YvSUFuZTJJUnhweG1tRFR3b1hGVkpTR1M2VGdUZ1BXczhpOGc4aE52a3A4NHJCbVZoRC9KNEo4TzZtQTJKc0ZQNkdiN2VMQ1RZYjhJWFYvelFMWGRIZ09ucFU2SXQ\" alt=\"\" width=\"102\" height=\"102\" class=\"ir\" /></div>"
         },
         "cosmicorange": {
-          "value": "コズミックオレンジ",
+          "value": "星宇橙色",
           "image": "<em class=\"click-layer\"></em> <div><img src=\"https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-pro-finish-cosmicorange-202509?wid=204&amp;hei=204&amp;fmt=jpeg&amp;qlt=90&amp;.v=NUNzdzNKR0FJbmhKWm5YamRHb05tY08zQkx1R090aUtZdHVuR2NMRWdhblpiYnpYR0pydXZYOER5WlBiWVJFUGU0OVhiRStjSHVhTFVibEFReFgzOVQ2K3c3eDN1QlVKV09nQzhyNmV5TTE3bDJUNWRlam9zYktmTmVEVUdtbm0\" alt=\"\" width=\"102\" height=\"102\" class=\"ir\" /></div>"
         },
         "deepblue": {
-          "value": "ディープブルー",
+          "value": "深蓝色",
           "image": "<em class=\"click-layer\"></em> <div><img src=\"https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-pro-finish-deepblue-202509?wid=204&amp;hei=204&amp;fmt=jpeg&amp;qlt=90&amp;.v=NUNzdzNKR0FJbmhKWm5YamRHb05tWUUveVZtb1RlSStSVytMY1drNG1TZ1FwRm1CeVVzcGdYV2czTDhRMzB2L2xIdGZMeXlzRHpBNW9PZUxLVVpMTjl1ekV6UFFwN2NTekgwWkM5SWhpNnA4cVNzUmJkT2hENmJpMlJma1cvUXU\" alt=\"\" width=\"102\" height=\"102\" class=\"ir\" /></div>"
         },
         "variantOrder": [
